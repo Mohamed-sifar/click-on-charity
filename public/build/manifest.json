@@ -1,0 +1,103 @@
+{
+  "resources/js/Pages/Admin/ActivityCURD.vue": {
+    "file": "assets/ActivityCURD-CO_DexFC.js",
+    "name": "ActivityCURD",
+    "src": "resources/js/Pages/Admin/ActivityCURD.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Admin/BlogCURD.vue": {
+    "file": "assets/BlogCURD-BIFRKftL.js",
+    "name": "BlogCURD",
+    "src": "resources/js/Pages/Admin/BlogCURD.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Admin/ContactusCURD.vue": {
+    "file": "assets/ContactusCURD-B-F7sBee.js",
+    "name": "ContactusCURD",
+    "src": "resources/js/Pages/Admin/ContactusCURD.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Admin/Login.vue": {
+    "file": "assets/Login-CPpazZEW.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Admin/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Admin/NeedHelpCURD.vue": {
+    "file": "assets/NeedHelpCURD-Mdtk2113.js",
+    "name": "NeedHelpCURD",
+    "src": "resources/js/Pages/Admin/NeedHelpCURD.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Admin/Register.vue": {
+    "file": "assets/Register-BlqrV-wk.js",
+    "name": "Register",
+    "src": "resources/js/Pages/Admin/Register.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Website/Activity.vue": {
+    "file": "assets/Activity-BhC5C-ca.js",
+    "name": "Activity",
+    "src": "resources/js/Pages/Website/Activity.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Website/ActivityDT.vue": {
+    "file": "assets/ActivityDT-NpPSqLcx.js",
+    "name": "ActivityDT",
+    "src": "resources/js/Pages/Website/ActivityDT.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Website/BlogDT.vue": {
+    "file": "assets/BlogDT-DQMz0nAt.js",
+    "name": "BlogDT",
+    "src": "resources/js/Pages/Website/BlogDT.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CEJBUcgw.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Admin/ActivityCURD.vue",
+      "resources/js/Pages/Admin/BlogCURD.vue",
+      "resources/js/Pages/Admin/ContactusCURD.vue",
+      "resources/js/Pages/Admin/Login.vue",
+      "resources/js/Pages/Admin/NeedHelpCURD.vue",
+      "resources/js/Pages/Admin/Register.vue",
+      "resources/js/Pages/Website/Activity.vue",
+      "resources/js/Pages/Website/ActivityDT.vue",
+      "resources/js/Pages/Website/BlogDT.vue"
+    ],
+    "css": [
+      "assets/app-CvEmhv21.css"
+    ]
+  }
+}
